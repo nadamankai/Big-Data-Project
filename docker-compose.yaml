@@ -27,7 +27,7 @@ services:
 
     volumes:
       - ./data:/data
-      - ./src:/src 
+      - ./src:/src
 
   # ----------------- #
   # Apache Kafka      #
